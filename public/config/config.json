@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7f0261ed8C14b3b2a1fCFfcfC8F3611ff3C83B27",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x7f0261ed8C14b3b2a1fCFfcfC8F3611ff3C83B27",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Chic Chicks Clique",
+  "SYMBOL": "CCC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/chicchicks-zkmplohks5",
+  "SHOW_BACKGROUND": false
+}
